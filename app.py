@@ -52,7 +52,7 @@ if uploaded_file is not None:
     image = Image.open(uploaded_file)
     st.image(image, caption='Uploaded Ultrasound Image', use_container_width=True)
     
-    if st.button('Predict Condition:')
+    if st.button('Predict Condition'):
         with st.spinner('Analyzing image features...'):
             # Convert image to grayscale, resize, flatten, and normalize
             img_gray = image.convert('L')
