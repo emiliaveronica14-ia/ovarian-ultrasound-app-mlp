@@ -48,7 +48,7 @@ To test the optional interactive web interface locally on your system, execute t
 
 ```bash
 # 1. Clone this repository to your machine
-git clone [https://github.com/emiliaveronica14-ia/ovarian-ultrasound-mlp-app.git](https://github.com/emiliaveronica14-ia/ovarian-ultrasound-mlp-app.git)
+git clone [https://github.com/emiliaveronica14-ia/ovarian-ultrasound-app-mlp.git](https://github.com/emiliaveronica14-ia/ovarian-ultrasound-app-mlp.git)
 
 # 2. Navigate into the project folder
 cd ovarian-ultrasound-mlp-app
